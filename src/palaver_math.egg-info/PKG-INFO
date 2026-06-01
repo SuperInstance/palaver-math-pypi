@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: palaver-math
+Version: 0.1.0
+Summary: Consensus mathematics from West African dialogue traditions
+Author: SuperInstance
+License-Expression: MIT
+Project-URL: Repository, https://github.com/SuperInstance/palaver-math-pypi
+Keywords: consensus,mathematics,dialogue,palaver,west-african
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown

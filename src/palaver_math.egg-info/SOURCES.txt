@@ -1,0 +1,12 @@
+pyproject.toml
+src/palaver_math.egg-info/PKG-INFO
+src/palaver_math.egg-info/SOURCES.txt
+src/palaver_math.egg-info/dependency_links.txt
+src/palaver_math.egg-info/top_level.txt
+src/palavermath/__init__.py
+src/palavermath/coalition.py
+src/palavermath/consensus.py
+src/palavermath/convergence.py
+src/palavermath/dialogue.py
+src/palavermath/session.py
+tests/test_all.py
